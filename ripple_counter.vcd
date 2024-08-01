@@ -1,0 +1,129 @@
+$date
+	Fri Jul 26 11:19:42 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module ripple_counter_tb $end
+$var wire 3 ! count [2:0] $end
+$var reg 1 " clk $end
+$var reg 1 # reset $end
+$var reg 1 $ up_down $end
+$scope module uut $end
+$var wire 1 " CLK $end
+$var wire 1 # RESET $end
+$var wire 1 $ UP_DOWN $end
+$var reg 3 % COUNT [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 %
+1$
+1#
+0"
+b0 !
+$end
+#5
+1"
+#10
+b1 !
+b1 %
+0"
+0#
+#15
+b10 !
+b10 %
+1"
+#20
+b11 !
+b11 %
+0"
+#25
+b100 !
+b100 %
+1"
+#30
+b101 !
+b101 %
+0"
+#35
+b110 !
+b110 %
+1"
+#40
+b111 !
+b111 %
+0"
+#45
+b0 !
+b0 %
+1"
+#50
+b1 !
+b1 %
+0"
+#55
+b10 !
+b10 %
+1"
+#60
+b1 !
+b1 %
+0"
+0$
+#65
+b0 !
+b0 %
+1"
+#70
+b111 !
+b111 %
+0"
+#75
+b110 !
+b110 %
+1"
+#80
+b101 !
+b101 %
+0"
+#85
+b100 !
+b100 %
+1"
+#90
+b11 !
+b11 %
+0"
+#95
+b10 !
+b10 %
+1"
+#100
+b1 !
+b1 %
+0"
+#105
+b0 !
+b0 %
+1"
+#110
+b111 !
+b111 %
+0"
+#115
+b110 !
+b110 %
+1"
+#120
+b101 !
+b101 %
+0"
